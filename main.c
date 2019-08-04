@@ -9,5 +9,7 @@ int main()
 {
     int d = add(2,3);
     printf("hello\n");
+
+    return 0;
     
 }
