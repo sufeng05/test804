@@ -7,6 +7,7 @@ int add( int x, int y)
 
 int max( int x, int y)
 {
+    //值
     return x > y ? x : y;
 }
 int main()
